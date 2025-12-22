@@ -19,7 +19,7 @@ This project transitions from standard SaaS usage to a fully controlled, self-ho
 * [Installation Guide](#%EF%B8%8F-installation--setup-guide)
 * [Configuration (Nginx & SSL)](#%EF%B8%8F-configuration-nginx--ssl)
 * [Deployment](#-deployment-docker)
-* [Challenges & Solutions](#-challenges--solutions-i-found-in-my-deploying)
+* [My Challenges & Solutions](#-challenges--solutions-i-found-in-my-deploying)
 * [Future Roadmap](#-future-roadmap)
 ---
 
