@@ -8,7 +8,7 @@
 
 This repository documents the infrastructure and deployment process for a self-hosted instance of **n8n (Workflow Automation Tool)** running on **Microsoft Azure**.
 
-This project transitions from standard SaaS usage to a fully controlled, self-hosted environment. The goal was to leverage custom configurations, unrestricted execution times, and direct integration with **Google's Gemini AI APIs** without geo-restriction issues.
+This project transitions from standard SaaS usage to a fully controlled, self-hosted environment. The goal was to leverage custom configurations, unrestricted execution times
 
 ---
 
