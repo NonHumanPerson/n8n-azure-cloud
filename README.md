@@ -184,7 +184,7 @@ docker run -d --name n8n \
 
 ---
 
-## 🚧 Challenges & Solutions (I found in my Deploying)
+## 🚧 Challenges & Solutions (I found While Deploying)
 
 Deploying this infrastructure revealed several real-world DevOps challenges.
 
