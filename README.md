@@ -1,4 +1,4 @@
-# 🚀 Hosted n8n on Azure cloud: My first DevOps project
+# 🚀 Hosted n8n on Azure cloud
 
 ![n8n](https://img.shields.io/badge/Workflow-n8n-ff6d5a?style=for-the-badge&logo=n8n)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
