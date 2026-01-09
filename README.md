@@ -1,4 +1,4 @@
-# 🚀 Host n8n For Free: The Student DevOps Guide
+# 🚀 Hosted n8n on Azure cloud: My first DevOps project
 
 ![n8n](https://img.shields.io/badge/Workflow-n8n-ff6d5a?style=for-the-badge&logo=n8n)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
@@ -19,7 +19,7 @@ This project transitions from standard SaaS usage to a fully controlled, self-ho
 * [Installation Guide](#%EF%B8%8F-installation--setup-guide)
 * [Configuration (Nginx & SSL)](#%EF%B8%8F-configuration-nginx--ssl)
 * [Deployment](#-deployment-docker)
-* [My Challenges & Solutions](#-challenges--solutions-i-found-in-my-deploying)
+* [My Challenges & Solutions](#-challenges--solutions-i-found-while-deploying)
 * [Future Roadmap](#-future-roadmap)
 ---
 
@@ -38,7 +38,7 @@ Leveraging the **[GitHub Student Developer Pack](https://education.github.com/pa
 * **Cloud Provider:** Microsoft Azure (Virtual Machine)
 * **Operating System:** Ubuntu Server 24.04 LTS
 * **Machine Size:** `Standard B2ats v2` (Burstable) - *Selected for optimal cost-to-performance ratio.*
-* **Region:** **West US** - *Crucial selection to ensure availability of Google AI Studio/Gemini API services, which are often geo-locked in Asian regions.*
+* **Region:** **West US** - *Crucial selection to ensure availability of Google AI Studio/Gemini API services, which are often geo-locked in Asian servers.*
 * **Container Runtime:** Docker
 * **Reverse Proxy:** Nginx
 * **Security (SSL/TLS):** Certbot (Let's Encrypt)
