@@ -121,7 +121,9 @@ sudo certbot --nginx -d "your.domain.com"
 **Critical Step:** Default Nginx settings often time out during long-running AI workflows (e.g., generating long-form text with Gemini).
 
 Edit the configuration file:
-`sudo nano /etc/nginx/sites-available/default`
+```
+sudo nano /etc/nginx/sites-available/default
+```
 
 Add/Modify the `location /` block:
 
